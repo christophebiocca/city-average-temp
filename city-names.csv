@@ -1,0 +1,385 @@
+City,Country
+Brisbane,Australia
+Melbourne,Australia
+Sydney,Australia
+Belem,Brazil
+Belo Horizonte,Brazil
+Brasilia,Brazil
+Cuiaba,Brazil
+Curitiba,Brazil
+Fortaleza,Brazil
+Goiania,Brazil
+Joao Pessoa,Brazil
+Maceio,Brazil
+Manaus,Brazil
+Natal,Brazil
+Porto Alegre,Brazil
+Recife,Brazil
+Salvador,Brazil
+Sao Luis,Brazil
+Sao Paulo,Brazil
+Teresina,Brazil
+Vitoria,Brazil
+Abbotsford,Canada
+Calgary,Canada
+Edmonton,Canada
+Halifax,Canada
+Hamilton,Canada
+Kingston,Canada
+Kitchener-Waterloo,Canada
+London Ontario,Canada
+Montreal,Canada
+Ottawa,Canada
+Regina,Canada
+Sudbury,Canada
+Saint John NB,Canada
+St. John's NFL,Canada
+Saskatoon,Canada
+Thunder Bay,Canada
+Toronto,Canada
+Victoria,Canada
+Vancouver,Canada
+Windsor,Canada
+Winnipeg,Canada
+Anshan,China
+Beijing,China
+Fuzhou,China
+Guangzhou,China
+Hong Kong,China
+Hangzhou,China
+Lanzhou,China
+Shanghai,China
+Shenyang,China
+Suzhu,China
+Taiyuan,China
+Tianjin,China
+Wuhan,China
+Wulumqi,China
+Xian,China
+Bari,Italy
+Bologna,Italy
+Brescia,Italy
+Civitavecchia,Italy
+Frosinone,Italy
+Genoa,Italy
+Latina,Italy
+Palermo,Italy
+Rome,Italy
+Turin,Italy
+Viterbo,Italy
+Aichi,Japan
+Akita,Japan
+Aomori,Japan
+Chiba,Japan
+Ehime,Japan
+Fukushima,Japan
+Fukui,Japan
+Fukuoka,Japan
+Gifu,Japan
+Gunma,Japan
+Hokkaido,Japan
+Hiroshima,Japan
+Hyogo,Japan
+Ibaraki,Japan
+Ishikawa,Japan
+Iwate,Japan
+Kagawa,Japan
+Kanagawa,Japan
+Kagoshima,Japan
+Kochi,Japan
+Kumamoto,Japan
+Kyoto,Japan
+Mie,Japan
+Miyagi,Japan
+Miyazaki,Japan
+Nagano,Japan
+Nagasaki,Japan
+Nara,Japan
+Niigata,Japan
+Oita,Japan
+Okayama,Japan
+Okinawa,Japan
+Osaka,Japan
+Saga,Japan
+Saitama,Japan
+Shiga,Japan
+Shimane,Japan
+Shizuoka,Japan
+Tokushima,Japan
+Tochigi,Japan
+Tokyo,Japan
+Tottori,Japan
+Toyama,Japan
+Wakayama,Japan
+Yamagata,Japan
+Yamaguchi,Japan
+Yamanashi,Japan
+Busan,South Korea
+Daegu,South Korea
+Daejeon,South Korea
+Gwangju,South Korea
+Incheon,South Korea
+Seoul,South Korea
+Ulsan,South Korea
+A Coruna,Spain
+Albacete,Spain
+Alicante,Spain
+Almeria,Spain
+Avila,Spain
+Badajoz,Spain
+Barcelona,Spain
+Bilbao,Spain
+Burgos,Spain
+Caceres,Spain
+Cadiz,Spain
+Castellon,Spain
+Ceuta,Spain
+Cordoba,Spain
+Ciudad Real,Spain
+Cuenca,Spain
+Girona,Spain
+Granada,Spain
+Guadalajara,Spain
+Huelva,Spain
+Huesca,Spain
+Jaen,Spain
+Leon,Spain
+Lleida,Spain
+Logrono,Spain
+Lugo,Spain
+Madrid,Spain
+Malaga,Spain
+Melilla,Spain
+Murcia,Spain
+Ourense,Spain
+Oviedo,Spain
+Pamplona,Spain
+Palmas G. Canaria,Spain
+Palma Mallorca,Spain
+Pontevedra,Spain
+Salamanca,Spain
+Santander,Spain
+Tenerife,Spain
+Segovia,Spain
+Sevilla,Spain
+Soria,Spain
+San Sebastian,Spain
+Tarragona,Spain
+Teruel,Spain
+Toledo,Spain
+Valencia,Spain
+Vitoria,Spain
+Valladolid,Spain
+Zamora,Spain
+Zaragoza,Spain
+Stockholm,Sweden
+Kaohsiung,Taiwan
+Taipei,Taiwan
+Taichung,Taiwan
+Amnat Charoen,Thailand
+Ayutthaya,Thailand
+Bangkok,Thailand
+Buri Ram,Thailand
+Chachoengsao,Thailand
+Chumphon,Thailand
+Chon Buri,Thailand
+Chiang Mai,Thailand
+Chiang Rai,Thailand
+Chanthaburi,Thailand
+Chaiyaphum,Thailand
+Kalasin,Thailand
+Khon Kaen,Thailand
+Kamphaeng Phet,Thailand
+Kanchanaburi,Thailand
+Krabi,Thailand
+Lamphun,Thailand
+Lampang,Thailand
+Lop Buri,Thailand
+Maha Sarakham,Thailand
+Mukdahan,Thailand
+Nan,Thailand
+Nakhon Phanom,Thailand
+Nakhon Pathom,Thailand
+Nakhon Ratchasima,Thailand
+Nakhon Sawan,Thailand
+Nakhon Si Thammarat,Thailand
+Nong Bua Lam Phu,Thailand
+Nong Khai,Thailand
+Nonthaburi,Thailand
+Narathiwat,Thailand
+Pattani,Thailand
+Phayao,Thailand
+Phichit,Thailand
+Phrae,Thailand
+Phetchabun,Thailand
+Phetchaburi,Thailand
+Phitsanulok,Thailand
+Prachin Buri,Thailand
+Prachuap Khiri Khan,Thailand
+Pathum Thani,Thailand
+Rayong,Thailand
+Roi Et,Thailand
+Ratchaburi,Thailand
+Sa Kaeo,Thailand
+Saraburi,Thailand
+Sukhothai,Thailand
+Sakon Nakhon,Thailand
+Samutprakan,Thailand
+Samut Sakhon,Thailand
+Songkhla,Thailand
+Suphanburi,Thailand
+Surat Thani,Thailand
+Si Sa Ket,Thailand
+Surin,Thailand
+Tak,Thailand
+Trang,Thailand
+Ubon Ratchathani,Thailand
+Udon Thani,Thailand
+Uttaradit,Thailand
+Yala,Thailand
+Yasothon,Thailand
+East,UK
+East Midlands,UK
+London,UK
+North East,UK
+North West,UK
+South East,UK
+South West,UK
+Wales,UK
+West Midlands,UK
+Yorkshire & Humber,UK
+Akron OH,USA
+Albuquerque NM,USA
+Allentown-Bethlehem PA,USA
+Atlanta GA,USA
+Atlantic City NJ,USA
+Austin TX,USA
+Bakersfield CA,USA
+Baltimore MD,USA
+Barnstable-Yarmouth MA,USA
+Bergen-Passaic NJ,USA
+Birmingham AL,USA
+Boston MA,USA
+Baton Rouge LA,USA
+Brownsville TX,USA
+Buffalo NY,USA
+Canton-Massillon OH,USA
+Charleston WV,USA
+Charlotte NC,USA
+Chattanooga TN,USA
+Chicago IL,USA
+Cincinnati OH,USA
+Cleveland OH,USA
+Columbia SC,USA
+Columbus OH,USA
+Dallas TX,USA
+Daytona Beach FL,USA
+Dayton OH,USA
+Denver CO,USA
+Des Moines IA,USA
+Detroit MI,USA
+Dutchess County NY,USA
+El Paso TX,USA
+Erie PA,USA
+Flint MI,USA
+Fresno CA,USA
+Ft. Lauderdale FL,USA
+Fort Myers-Cape Coral FL,USA
+Fort Pierce-Port St. Lucie FL,USA
+Fort Worth-Arlington TX,USA
+Galveston TX,USA
+Gary IN,USA
+Grand Rapids MI,USA
+Greensboro NC,USA
+Greenville SC,USA
+Hamilton OH,USA
+Harrisburg-Carlisle PA,USA
+Hartford CT,USA
+Honolulu HI,USA
+Houston TX,USA
+Indianapolis IN,USA
+Jacksonville FL,USA
+Jersey City NJ,USA
+Kansas City MO-KS,USA
+Knoxville TN,USA
+Lakeland-Winter Haven FL,USA
+Lancaster PA,USA
+Lansing MI,USA
+Las Vegas NV-AZ,USA
+Los Angeles CA,USA
+Louisville KY,USA
+Little Rock AR,USA
+Lubbock TX,USA
+Madison WI,USA
+McAllen-Edinburg-Mission TX,USA
+Melbourne-Titusville-Palm Bay FL,USA
+Memphis TN,USA
+Miami FL,USA
+Middlesex NJ,USA
+Milwaukee WI,USA
+Minneapolis-St. Paul MN,USA
+Mobile AL,USA
+Monmouth-Ocean NJ,USA
+Myrtle Beach SC,USA
+Naples FL,USA
+Nashua NH,USA
+Nashville TN,USA
+Nassau-Suffolk NY,USA
+Newark NJ,USA
+Newburgh NY,USA
+New Haven-Meriden CT,USA
+New London CT,USA
+New York NY,USA
+Oakland CA,USA
+Ocala FL,USA
+Oklahoma City OK,USA
+Omaha NE,USA
+Orange County CA,USA
+Orlando FL,USA
+Pensacola FL,USA
+Philadelphia PA-NJ,USA
+Phoenix AZ,USA
+Pittsburgh PA,USA
+Portland ME,USA
+Portland OR,USA
+Providence-Fall River RI-MA,USA
+Punta Gorda FL,USA
+Raleigh NC,USA
+Reading PA,USA
+Riverside-San Bernardino CA,USA
+Rochester NY,USA
+Rockford IL,USA
+Sacramento CA,USA
+Saginaw MI,USA
+Salinas CA,USA
+Salt Lake City UT,USA
+San Antonio TX,USA
+Sarasota-Bradenton FL,USA
+Scranton--Wilkes-Barre--Hazleton PA,USA
+San Diego CA,USA
+Seattle WA,USA
+San Francisco CA,USA
+Shreveport LA,USA
+San Jose CA,USA
+Spokane WA,USA
+Springfield MA,USA
+Stamford-Norwalk CT,USA
+St. Louis MO-IL,USA
+Stockton-Lodi CA,USA
+Syracuse NY,USA
+Tacoma WA,USA
+Tampa-St. Petersburg-Clearwater FL,USA
+Toledo OH,USA
+Trenton NJ,USA
+Tucson AZ,USA
+Tulsa OK,USA
+Utica-Rome NY,USA
+Ventura County CA,USA
+Virginia Beach VA,USA
+Washington DC-MD-VA,USA
+Wichita KS,USA
+Wilmington DE,USA
+Worcester MA,USA
+West Palm Beach-Boca Raton FL,USA
+York PA,USA
+Youngstown-Warren OH,USA

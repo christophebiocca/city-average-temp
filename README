@@ -1,0 +1,14 @@
+Just a check-in of the exact code and process used to generate the data.
+
+The climate data file was downloaded from:
+https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.06/cruts.2205201912.v4.06/tmp/cru_ts4.06.2011.2020.tmp.dat.nc.gz
+
+It should remain downloadable as-is in the future,
+though there have been cases of the files being reissued without a new point release if they're found to have defects.
+
+The source names (city and country) were copy-pasted from table S4 of https://www.thelancet.com/cms/10.1016/S0140-6736(14)62114-0/attachment/3daac933-d843-4742-95cd-07cae706f14f/mmc1.pdf
+
+The script finds the appropriate wikidata entry with user assistance, then uses the wikidata property https://www.wikidata.org/wiki/Property:P625 (coordinate location) to look up the nearest cell in the climate dataset.
+The average temperature is computed over all datapoints in the provided temperature NetCDF file (so, for the one I picked, over all 120 months from 2011 to 2020 inclusively).
+
+The output.csv file is the result of this process. Can be useful in identifying if something was done incorrectly.
